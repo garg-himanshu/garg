@@ -56,7 +56,7 @@ public class Client implements MessageListener
 	String to ="admin@kaushik";
     XMPPConnection connection;
     double cpumost; 
-    
+    // this my new comment
     
     //establishing connection with openfire 
     public void login(String userName, String password) throws XMPPException
